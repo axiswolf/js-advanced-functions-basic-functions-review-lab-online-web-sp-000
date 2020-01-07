@@ -28,6 +28,9 @@ const Calculator = {
   }
 }
 
-function actionApplyer(integer=0, array=[]) {
-
+function actionApplyer(i=0, array=[]) {
+  for (let fn of array) {
+    i = fn(i)
+  }
+  return i
 }
