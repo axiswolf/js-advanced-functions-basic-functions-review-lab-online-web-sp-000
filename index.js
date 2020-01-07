@@ -6,3 +6,15 @@ function saturdayFun(activity = "roller-skate") {
 function mondayWork(activity = "go to the office") {
   console.log(`This Monday, I will ${activity}.`)
 }
+
+function wrapAdjective() {
+  
+}
+
+function Calculator() {
+  
+}
+
+function actionApplyer(integer, array) {
+  
+}
