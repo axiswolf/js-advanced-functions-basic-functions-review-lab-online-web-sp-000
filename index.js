@@ -28,6 +28,6 @@ const Calculator = {
   }
 }
 
-function actionApplyer(integer='0', array=[]) {
+function actionApplyer(integer=0, array=[]) {
 
 }
